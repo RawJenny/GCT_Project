@@ -1,9 +1,11 @@
 Global Cybersecurity Threats (2015-2024)
+(https://github.com/user-attachments/assets/3cf6369e-e064-4101-9b70-9af9e223c625)
+
 This project analyzes global cybersecurity threats from 2015 to 2024 to understand the impact of different attack types, identify the most affected regions and sectors, and evaluate the effectiveness of defense mechanisms.
 Problem Being Addressed:
 Cyber threats are increasingly sophisticated and widespread, resulting in substantial financial loss and operational disruption. This analysis aims to identify patterns and insights that can inform more robust cybersecurity strategies.
 Key Datasets and Methodologies:
-The dataset used combines incident-level data and pivot summaries including financial losses, affected users, and resolution times. Microsoft Excel tools such as Pivot Tables, Filters, and Lookup functions were employed.
+The dataset used combines incident-level data and pivot summaries, including financial losses, affected users, and resolution times. Microsoft Excel tools such as Pivot Tables, Filters, and Lookup functions were employed.
 
 3. Story of Data
 Data Source:
